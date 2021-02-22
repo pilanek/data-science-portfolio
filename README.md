@@ -1,3 +1,5 @@
 # Data Science Portfolio
 
-Repositry containing portfolio of projects I have completed for academic,  self learning and hobby.
+This repositry contains projects that have been completed by me for the purposes of learning and hobby.
+
+## Contents (Coming Soon)
